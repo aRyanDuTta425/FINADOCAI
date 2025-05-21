@@ -3,11 +3,13 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/login": "pages/login.js",
-  "/profile": "pages/profile.js",
-  "/dashboard": "pages/dashboard.js",
+  "/api/auth/logout": "pages/api/auth/logout.js",
   "/logout": "pages/logout.js",
   "/api/me": "pages/api/me.js",
-  "/api/auth/logout": "pages/api/auth/logout.js",
+  "/documents": "pages/documents.js",
+  "/register": "pages/register.js",
+  "/dashboard": "pages/dashboard.js",
   "/api/login": "pages/api/login.js",
-  "/documents": "pages/documents.js"
+  "/api/register": "pages/api/register.js",
+  "/profile": "pages/profile.js"
 }

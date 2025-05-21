@@ -11,7 +11,7 @@
  *   --type=<type>        Document type (BANK_STATEMENT, INVOICE, RECEIPT, OTHER)
  *   --verbose            Show detailed output
  */
-
+ 
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
